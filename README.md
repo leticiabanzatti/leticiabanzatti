@@ -47,5 +47,7 @@ _**"No pain, no gain! - Benjamin Franklin."**_
 
 | Certificação | Nome |
 | --- | --- |
+| ![CCNA SRWE](https://img.shields.io/badge/CISCO_-SRWE-t?style=for-the-badge&logo=cisco&logoColor=%23151dc5&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F493f93f4-9f8f-4890-a047-1a498bf1f32f%2Flinked_in%3Ft%3Dsruli9) | CCNA Switching, Routing, and Wireless Essentials
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_-ITN-t?style=for-the-badge&logo=cisco&logoColor=%23151dc5&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fe9f61894-b14a-414b-a367-a452ee351b93%2Flinked_in%3Ft%3Dsrulhz) | CCNA Introduction to Networks
-| ![CCNA SRWE]() | 
+| ![AWS ACF](https://img.shields.io/badge/AWS-ACF-t?style=for-the-badge&logo=amazonwebservices&logoColor=%2303075f&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F493f93f4-9f8f-4890-a047-1a498bf1f32f%2Flinked_in%3Ft%3Dsruli9) | AWS Academy Cloud Foundations
+| ![AWS ACD](https://img.shields.io/badge/AWS-ACD-t?style=for-the-badge&logo=amazonwebservices&logoColor=%2303075f&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fba80fdda-d228-403e-9dd7-041ad5752f08%2Flinked_in%3Ft%3Dsw5pit) |  AWS Academy Cloud Developing
